@@ -1,11 +1,13 @@
 
 package basic;
 
+import java.util.Scanner;
+
 public class SmartCalculator {	
 	public static void main(String[] args) { 
 		
-		
-		System.out.println(smartCalculator(3, 2, "christmas"));
+		System.out.println("Please enter a number");
+		int number = new Scanner(System.in).nextInt();
 	    	
 	}  
 	
