@@ -7,6 +7,8 @@ public class Computer {
 	private String OS;
 	private String color;
 	private double batteryLife;
+	
+	
 	public int getHddSize() {
 		return hddSize;
 	}
